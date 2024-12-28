@@ -71,7 +71,7 @@ turtle.penup()
 turtle.goto(-160, 50)
 turtle.color("white")
 turtle.pendown()
-turtle.write("happy birthday to you<3", font=("Poppins", 25, "normal"))
+turtle.write("happy birthday to u<3", font=("Poppins", 25, "normal"))
 turtle.color("lightblue")
 
 turtle.done()
